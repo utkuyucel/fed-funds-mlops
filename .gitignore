@@ -1,0 +1,14 @@
+venv/
+*_venv/
+
+.vscode
+
+__pycache__/
+__mypycache__/
+
+# Byte-compiled / optimized / DLL files
+*.py[cod]
+
+# Distribution / packaging
+.Python
+build/
