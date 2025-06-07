@@ -1,1 +1,1 @@
-# Traffic percentage prediction of Istanbul
+# Traffic percentage of Istanbul
